@@ -20,6 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 zhihu_username:     https://www.zhihu.com/people/ji-ren-meng-sheng/columns
 github_username:    jimengshi
+facebook_username:  https://www.facebook.com/jimeng.shi.54/
 wechat:             sjmsly
 linkedin:           https://www.linkedin.com/in/jimeng-shi-729564187/
 
@@ -91,13 +92,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Resume",
+        href: "http://jimengai.ueuo.com/index.html"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Facebook",
+        href: "https://www.facebook.com/jimeng.shi.54/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Linkedin",
+        href: "https://www.linkedin.com/in/jimeng-shi-729564187/"
+    },{
+        title: "Github",
+        href: "https://https://github.com/JimengShi/"
     }
 ]
