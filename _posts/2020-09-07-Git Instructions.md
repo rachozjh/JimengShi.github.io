@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Git Instructions
-subtitle:   Common Git Instructions
+subtitle:   Summarize Some Common Git Instructions
 date:       2020-09-07
 author:     Jimeng
 header-img: img/post-bg-ios9-web.jpg
@@ -10,7 +10,7 @@ tags:
     - Git
 ---
 
->随便整理的一些自用的Git指令
+> Based on my personal experience, sharing some common git instructions I used a lot!
 
 
 # GitHub创建仓库提示代码
