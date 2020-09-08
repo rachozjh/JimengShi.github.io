@@ -12,11 +12,13 @@ tags:
 
 
 > Thanks for the blog template from [Huxpro](https://github.com/huxpro).
-> 
+>
 > [My blog](http://qiubaiying.top)
 
 
-# 前言
+# Preface
+This is fork from [quibaiying](http://qiubaiying.top)
+
 Demo on website：
 
 [![](http://upload-images.jianshu.io/upload_images/2178672-51a2fe6fbe24d1cd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)](http://qiubaiying.github.io/)
@@ -27,7 +29,7 @@ Demo on phone：
 
 
 
-# 快速开始
+# Quich Start
 
 ### 从注册一个Github账号开始
 
