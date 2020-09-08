@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      快速搭建个人博客
-subtitle:   手把手教你在半小时内搭建自己的个人博客(如果不踩坑的话🙈🙊🙉)
-date:       2017-02-06
-author:     BY
+title:      Build Your Own Blog Quickly
+subtitle:   Build your own blog in half of an hour (If possible🙈🙊🙉)
+date:       2020-06-06
+author:     Jimeng
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
@@ -12,7 +12,7 @@ tags:
 
 > 正所谓前人栽树，后人乘凉。
 > 
-> 感谢[Huxpro](https://github.com/huxpro)提供的博客模板
+> Thanks for the blog template from [Huxpro](https://github.com/huxpro).
 > 
 > [我的的博客](http://qiubaiying.top)
 
